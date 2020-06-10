@@ -1,5 +1,6 @@
 import sympy
 import numpy
+import math
 
 from .rne import rne, gravityterm, coriolisterm, coriolismatrix,\
     frictionterm, inertiamatrix

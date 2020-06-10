@@ -1,4 +1,5 @@
 import numpy
+import math
 
 
 def find_dyn_parm_deps(dof, parm_num, regressor_func):
