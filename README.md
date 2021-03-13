@@ -1,7 +1,7 @@
-SymPyBotics
+Sym_RobotD
 ===========
 
-Symbolic Framework for Modeling and Identification of Robot Dynamics
+Symbolic Framework for Modeling and Identification
 
 Uses [Sympy](http://sympy.org) and [Numpy](http://www.numpy.org/) libraries.
 
